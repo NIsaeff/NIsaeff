@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nate Isaeff!
 - 👀 I’m interested in Artificial Intelligence, 3D Printing/CNC Machining, Linux, Cloud and Martial Arts.
-- 🌱 I’m currently learning Arch Linux, backend development
+- 🌱 I’m currently learning Arch Linux and backend development.
 - 📫 How to reach me: nisaeff1@gmail.com
